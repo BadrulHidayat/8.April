@@ -16,7 +16,6 @@
             background-color: #000;
             text-size-adjust: 50px;
         }
-
         p {
             color: red;
             background-color: royalblue;
