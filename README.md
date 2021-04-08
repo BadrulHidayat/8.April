@@ -29,6 +29,3 @@
         DDT4B
     </div>
 </body>
-table .merah {
-    color: red;
-}
