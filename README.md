@@ -14,12 +14,17 @@
 * {
     font-family: Arial;
 }
-.intro {
+.intro h1{
   background-color: yellow;
 }
     </style>
 </head>
 <body>
     <h1>18DDT19F1005, BADRUL HIDAYAT BIN BAHAROM & DDT4B</h1>
+    <div>
+        18DDT19F1005<BR>
+        <P>BADRUL HIDAYAT BIN BAHAROM</P>
+        DDT4B
+    </div>
 </body>
 </html>
