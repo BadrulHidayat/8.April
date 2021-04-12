@@ -14,6 +14,9 @@
 * {
     font-family: Arial;
 }
+p:nth-child(2) {
+  background: red;
+}
 .intro {
   background-color: yellow;
 }
