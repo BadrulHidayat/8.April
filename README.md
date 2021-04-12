@@ -14,7 +14,7 @@
 * {
     font-family: Arial;
 }
-.intro h1{
+.intro {
   background-color: yellow;
 }
     </style>
