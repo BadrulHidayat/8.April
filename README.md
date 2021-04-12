@@ -12,7 +12,7 @@
             background-color: lightblue;
         }
 * {
-    font-family: Arial;
+    font-family:'Courier New';
 }
 p:nth-child(2) {
   background: red;
